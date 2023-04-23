@@ -37,3 +37,5 @@ int main(){
 
     return 0;
 }
+
+//Enter number of branch to print out a triangle and a rightangle
