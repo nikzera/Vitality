@@ -1,0 +1,45 @@
+start  outside
+
+// menzies
+063300 outside (leave)
+064712 inside  (enter)
+064812 outside (leave)
+064901 inside  (enter)
+064955 outside (leave)
+065034 inside  (enter)
+065128 outside (leave)
+
+// terminal 3
+
+065207 inside  (enter)
+065336 outside (leave)
+065420 inside  (enter)
+065454 outside (leave)
+065518 inside  (enter)
+065552 outside (leave)
+
+// terminal 5
+
+065738 inside  (enter)
+065904 outside (leave)
+065944 inside  (enter)
+070112 outside (leave)
+070157 inside  (enter)
+070325 outside (leave)
+
+// CB 
+
+070406 soft-enter
+070418 inside  (enter)
+070611 outside (leave)
+070713 soft-enter
+070722 inside  (enter)
+070916 outside (leave)
+071027 soft-enter
+071037 inside  (enter)
+071229 outside (leave)
+
+finish outside
+
+* soft-enter means entering 8km zone, but not officially the baggage area
+* times are UTC (+2h for local time)
