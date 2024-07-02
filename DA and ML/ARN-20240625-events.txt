@@ -1,0 +1,51 @@
+start  outside
+
+// cb (bypass)
+122000 outside (leave)
+122057 inside  (enter)
+122222 outside (leave)
+
+// cb
+
+122403 inside  (enter)
+122553 outside (leave)
+122700 inside  (enter)
+122840 outside (leave)
+122949 inside  (enter)
+123139 outside (leave)
+
+// cb (bypass)
+
+123337 inside  (enter)
+123456 outside (leave)
+
+// t5
+
+123836 inside  (enter)
+123943 outside (leave)
+124032 inside  (enter)
+124205 outside (leave)
+124246 inside  (enter)
+124459 outside (leave)
+
+// t3
+
+124736 inside  (enter)
+124809 outside (leave)
+124832 inside  (enter)
+124904 outside (leave)
+124935 inside  (enter)
+125018 outside (leave)
+
+// menzies
+
+125125 inside  (enter)
+125227 outside (leave)
+125310 inside  (enter)
+125415 outside (leave)
+125451 inside  (enter)
+125553 outside (leave)
+
+finish outside
+
+* times are UTC (+2h for local time)
